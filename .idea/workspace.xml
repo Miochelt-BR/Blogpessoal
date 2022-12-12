@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32e8bf9-87da-4bc9-8d54-927787a5a0ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog atualizado/blogpessoal/.idea/blogpessoal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Blogpessoal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Blogpessoal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/controller/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/test/java/com/generation/blogpessoal/BlogpessoalApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/test/java/com/generation/blogpessoal/BlogpessoalApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/BlogpessoalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/controller/PostagemController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/controller/TemaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/controller/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/model/Postagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/model/Tema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/model/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/model/UsuarioLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/repository/PostagemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/repository/TemaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/repository/UsuarioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/security/BasicSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/security/UserDetailsImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/security/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/java/com/pessoal/blogpessoal/service/UsuarioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/test/java/com/generation/blogpessoal/BlogpessoalApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/test/java/com/generation/blogpessoal/controller/UsuarioControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/test/java/com/generation/blogpessoal/repository/UsuarioRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal/blogpessoal/src/test/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +53,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.generation.blogpessoal in Blogpessoal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blogpessoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generation.blogpessoal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.generation.blogpessoal" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.generation.blogpessoal in Blogpessoal" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +100,7 @@
       <updated>1669996290107</updated>
       <workItem from="1669996293442" duration="68000" />
       <workItem from="1669997447454" duration="256000" />
+      <workItem from="1670871625928" duration="312000" />
     </task>
     <servers />
   </component>
